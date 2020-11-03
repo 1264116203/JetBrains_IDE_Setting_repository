@@ -1,0 +1,66 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="partical" />
+      <item value="File Output Stream" />
+      <item value="NUMERIC" />
+      <item value="get Numeric Cell Value" />
+      <item value="NOT number of cells in the actual row!" />
+      <item value="defined" />
+      <item value="Dispose of temporary files backing this workbook on disk. * Calling this method will render the workbook unusable. * @return true if all temporary files were deleted successfully." />
+      <item value="exclude" />
+      <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
+      <item value="transient" />
+      <item value="reflected" />
+      <item value="Abstract Sequential List" />
+      <item value="the load factor of the hash map" />
+      <item value="Dummy value to associate with an Object in the backing Map" />
+      <item value="fail-fast" />
+      <item value="iterator" />
+      <item value="incorrect" />
+      <item value="yield" />
+      <item value="otherwise" />
+      <item value="The number of times this list has been &lt;i&gt;structurally modified&lt;/i&gt;. * Structural modifications are those that change the size of the * list, or otherwise perturb it in such a fashion that iterations in * progress may yield incorrect results." />
+      <item value="Sorted" />
+      <item value="Sort" />
+      <item value="Sorted Set" />
+      <item value="interable" />
+      <item value="* Parses the string argument as a signed integer in the radix * specified by the second argument. The characters in the string * must all be digits of the specified radix (as determined by * whether {@link java.lang.Character#digit(char, int)} returns a * nonnegative value), except that the first character may be an * ASCII minus sign {@code '-'} ({@code '\u005Cu002D'}) to * indicate a negative value or an ASCII plus sign {@code '+'} * ({@code '\u005Cu002B'}) to indicate a positive value. The * resulting integer value is returned." />
+      <item value="esulting integer value is returned." />
+      <item value="Parses" />
+      <item value="the radix to be used while parsing {@code s}." />
+      <item value="parsing" />
+      <item value="radix" />
+      <item value="Char Sequence" />
+      <item value="Comparable" />
+      <item value="trailing" />
+      <item value="whitespace" />
+      <item value="with any leading and trailing * whitespace removed." />
+      <item value="the result threshold, as described above" />
+      <item value="Standard Charsets" />
+      <item value="Caused by: org.yaml.snakeyaml.scanner.ScannerException: mapping values are not allowed here in 'reader', line 17, column 16:" />
+      <item value="valid" />
+      <item value="Deprecated" />
+      <item value="extension" />
+      <item value="Non Login Authenticator" />
+      <item value="Correct the classpath of your application so that it contains a single, compatible version" />
+      <item value="eligible" />
+      <item value="Component" />
+      <item value="delay" />
+      <item value="spring-cloud-starter-eureka is deprecated as of Spring Cloud Netflix 1.4.0, please migrate to spring-cloud-starter-netflix-eureka" />
+      <item value="You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project." />
+      <item value="Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format." />
+      <item value="detected" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
+        <entry key="DANISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
