@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NUMERIC" />
       <item value="partical" />
       <item value="File Output Stream" />
-      <item value="NUMERIC" />
       <item value="get Numeric Cell Value" />
       <item value="NOT number of cells in the actual row!" />
       <item value="defined" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
