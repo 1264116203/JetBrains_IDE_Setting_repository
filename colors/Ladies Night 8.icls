@@ -510,7 +510,7 @@
     </option>
     <option name="JAVA_STRING">
       <value>
-        <option name="FOREGROUND" value="d68631" />
+        <option name="FOREGROUND" value="76d6a7" />
       </value>
     </option>
     <option name="JS$GLOBAL_VARIABLE">
@@ -535,6 +535,11 @@
         <option name="FOREGROUND" value="e4dfa4" />
         <option name="EFFECT_COLOR" value="0" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="e44c" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
