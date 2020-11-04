@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="11:37 Error merging: refusing to merge unrelated histories" />
       <item value="Assert" />
       <item value="does not support filtering and will therefore be run completely." />
       <item value="Predicates" />
@@ -50,12 +51,11 @@
       <item value="Non Login Authenticator" />
       <item value="Correct the classpath of your application so that it contains a single, compatible version" />
       <item value="eligible" />
-      <item value="Component" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
