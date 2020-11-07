@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="truncation" />
       <item value="'LoggerFactory()' has private access in 'org.slf4j.LoggerFactory'" />
       <item value="io.jsonwebtoken.MalformedJwtException: JWT strings must contain exactly 2 period characters. Found: 4" />
       <item value="Unparseable" />
@@ -50,12 +51,11 @@
       <item value="radix" />
       <item value="Char Sequence" />
       <item value="Comparable" />
-      <item value="trailing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
