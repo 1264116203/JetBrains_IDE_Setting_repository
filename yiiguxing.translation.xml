@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="map-underscore-to-camel-case" />
       <item value="Duplicate entry '1325418909418926081' for key 'PRIMARY" />
       <item value="SQL Integrity Constraint Violation Exception" />
       <item value="delete Batch Ids" />
@@ -50,12 +51,11 @@
       <item value="Sort" />
       <item value="Sorted Set" />
       <item value="interable" />
-      <item value="* Parses the string argument as a signed integer in the radix * specified by the second argument. The characters in the string * must all be digits of the specified radix (as determined by * whether {@link java.lang.Character#digit(char, int)} returns a * nonnegative value), except that the first character may be an * ASCII minus sign {@code '-'} ({@code '\u005Cu002D'}) to * indicate a negative value or an ASCII plus sign {@code '+'} * ({@code '\u005Cu002B'}) to indicate a positive value. The * resulting integer value is returned." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
