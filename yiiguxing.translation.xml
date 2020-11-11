@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Alias For" />
       <item value="entry" />
       <item value="Api Operation" />
       <item value="camel" />
@@ -50,12 +51,11 @@
       <item value="incorrect" />
       <item value="yield" />
       <item value="otherwise" />
-      <item value="The number of times this list has been &lt;i&gt;structurally modified&lt;/i&gt;. * Structural modifications are those that change the size of the * list, or otherwise perturb it in such a fashion that iterations in * progress may yield incorrect results." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
