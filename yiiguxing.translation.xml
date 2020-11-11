@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicated code fragment (18 lines long)" />
       <item value="Alias For" />
       <item value="entry" />
       <item value="Api Operation" />
@@ -50,12 +51,11 @@
       <item value="iterator" />
       <item value="incorrect" />
       <item value="yield" />
-      <item value="otherwise" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="188" />
+        <entry key="ENGLISH" value="189" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
