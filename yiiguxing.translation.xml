@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="arithmetic Exception" />
       <item value="original" />
       <item value="Duplicated code fragment (18 lines long)" />
       <item value="Alias For" />
@@ -50,12 +51,11 @@
       <item value="Dummy value to associate with an Object in the backing Map" />
       <item value="fail-fast" />
       <item value="iterator" />
-      <item value="incorrect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
