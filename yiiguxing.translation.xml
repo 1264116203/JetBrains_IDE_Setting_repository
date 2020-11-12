@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Common Path" />
+      <item value="template File Path And Name" />
       <item value="arithmetic Exception" />
       <item value="original" />
       <item value="Duplicated code fragment (18 lines long)" />
@@ -49,8 +51,6 @@
       <item value="Abstract Sequential List" />
       <item value="the load factor of the hash map" />
       <item value="Dummy value to associate with an Object in the backing Map" />
-      <item value="fail-fast" />
-      <item value="iterator" />
     </histories>
     <option name="languageScores">
       <map>
