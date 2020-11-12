@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="1" />
       <item value="instantiate" />
       <item value="Specifies whether or not date/time interpretation is to be lenient. With * lenient interpretation, a date such as &quot;February 942, 1996&quot; will be * treated as being equivalent to the 941st day after February 1, 1996. * With strict (non-lenient) interpretation, such dates will cause an exception to be * thrown. The default is lenient." />
       <item value="lenient" />
@@ -50,7 +51,6 @@
       <item value="Dispose of temporary files backing this workbook on disk. * Calling this method will render the workbook unusable. * @return true if all temporary files were deleted successfully." />
       <item value="exclude" />
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
-      <item value="transient" />
     </histories>
     <option name="languageScores">
       <map>
