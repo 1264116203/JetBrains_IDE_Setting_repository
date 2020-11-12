@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="validation" />
       <item value="Common Path" />
       <item value="template File Path And Name" />
       <item value="arithmetic Exception" />
@@ -50,7 +51,6 @@
       <item value="reflected" />
       <item value="Abstract Sequential List" />
       <item value="the load factor of the hash map" />
-      <item value="Dummy value to associate with an Object in the backing Map" />
     </histories>
     <option name="languageScores">
       <map>
