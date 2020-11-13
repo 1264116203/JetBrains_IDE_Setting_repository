@@ -1,0 +1,39 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="圆角矩形" />
+      <item value="length" />
+      <item value="rotate X" />
+      <item value="subtract" />
+      <item value="compute Vertex Normals" />
+      <item value="compute Face Normals" />
+      <item value="animations" />
+      <item value="create Model" />
+      <item value="shininess" />
+      <item value="specular" />
+      <item value="opacity" />
+      <item value="transparent" />
+      <item value="to Geometry" />
+      <item value="matrix" />
+      <item value="union" />
+      <item value="intersect" />
+      <item value="100000" />
+      <item value="left cube" />
+      <item value="Ambient Light" />
+      <item value="Sphere Geometry" />
+      <item value="Orthographic Camera" />
+      <item value="rotation" />
+      <item value="Geometry" />
+      <item value="Cylinder Geometry" />
+      <item value="Mesh Lambert Material" />
+      <item value="mesh" />
+      <item value="height" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="31" />
+      </map>
+    </option>
+  </component>
+</application>
