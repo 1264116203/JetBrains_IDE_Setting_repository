@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicated code fragment (13 lines long)" />
       <item value="entity" />
       <item value="1" />
       <item value="instantiate" />
@@ -50,12 +51,11 @@
       <item value="NOT number of cells in the actual row!" />
       <item value="defined" />
       <item value="Dispose of temporary files backing this workbook on disk. * Calling this method will render the workbook unusable. * @return true if all temporary files were deleted successfully." />
-      <item value="exclude" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
