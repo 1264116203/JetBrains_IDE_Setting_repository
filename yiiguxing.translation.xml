@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.IllegalStateException: getWriter() has already been called for this response" />
+      <item value="converter" />
       <item value="Duplicate" />
       <item value="Interrupted Exception" />
       <item value="Execution Exception" />
@@ -49,13 +51,11 @@
       <item value="Predicates" />
       <item value="evaluate" />
       <item value="HSSF instead of XSSF" />
-      <item value="NUMERIC" />
-      <item value="partical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
