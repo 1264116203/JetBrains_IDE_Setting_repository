@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fix" />
+      <item value="Fixed" />
       <item value="Future Task" />
       <item value="element" />
       <item value="poll" />
@@ -49,13 +51,11 @@
       <item value="original" />
       <item value="Duplicated code fragment (18 lines long)" />
       <item value="Alias For" />
-      <item value="entry" />
-      <item value="Api Operation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="238" />
+        <entry key="ENGLISH" value="239" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
