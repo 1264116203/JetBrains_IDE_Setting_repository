@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="field holds the initial array capacity, or zero signifying" />
+      <item value="DEFAULT INITIAL CAPACITY.)" />
+      <item value="allocated" />
+      <item value="transient" />
       <item value="Callbacks to allow LinkedHashMap post-actions" />
       <item value="after Node Access(e);" />
       <item value="Create a regular (non-tree) node" />
@@ -47,15 +51,11 @@
       <item value="Introspector" />
       <item value="Ignore convert excel" />
       <item value="Data truncation" />
-      <item value="truncation" />
-      <item value="'LoggerFactory()' has private access in 'org.slf4j.LoggerFactory'" />
-      <item value="io.jsonwebtoken.MalformedJwtException: JWT strings must contain exactly 2 period characters. Found: 4" />
-      <item value="Unparseable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
