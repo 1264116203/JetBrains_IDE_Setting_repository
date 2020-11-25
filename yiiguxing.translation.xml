@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CUSTOM" />
       <item value="-1 for 1st" />
       <item value="treeify Bin" />
       <item value="However, since the vast majority of bins in * normal use are not overpopulated, checking for existence of * tree bins may be delayed in the course of table methods." />
@@ -50,12 +51,11 @@
       <item value="underscore" />
       <item value="map-underscore-to-camel-case" />
       <item value="Duplicate entry '1325418909418926081' for key 'PRIMARY" />
-      <item value="SQL Integrity Constraint Violation Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="232" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
