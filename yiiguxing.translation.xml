@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register Natives" />
       <item value="treeify Bin" />
       <item value="table is too small, in which case resizes instead." />
       <item value="Fix" />
@@ -50,12 +51,11 @@
       <item value="template File Path And Name" />
       <item value="arithmetic Exception" />
       <item value="original" />
-      <item value="Duplicated code fragment (18 lines long)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="CHINESE" value="242" />
+        <entry key="ENGLISH" value="243" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
