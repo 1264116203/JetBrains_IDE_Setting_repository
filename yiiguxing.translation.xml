@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Discard Policy" />
+      <item value="discards" />
+      <item value="A handler for rejected tasks that silently discards the * rejected task." />
+      <item value="Discard Oldest Policy" />
+      <item value="Caller Runs Policy" />
+      <item value="rejected Execution" />
+      <item value="Abort Policy" />
       <item value="delay" />
       <item value="new Single Thread Executor" />
       <item value="Finalizable Delegated Executor Service" />
@@ -44,18 +51,11 @@
       <item value="controller" />
       <item value="Date Validation Util Exception" />
       <item value="Duplicated code fragment (13 lines long)" />
-      <item value="entity" />
-      <item value="1" />
-      <item value="instantiate" />
-      <item value="Specifies whether or not date/time interpretation is to be lenient. With * lenient interpretation, a date such as &quot;February 942, 1996&quot; will be * treated as being equivalent to the 941st day after February 1, 1996. * With strict (non-lenient) interpretation, such dates will cause an exception to be * thrown. The default is lenient." />
-      <item value="lenient" />
-      <item value="validation" />
-      <item value="Common Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="256" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
