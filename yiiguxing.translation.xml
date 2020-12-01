@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reduce" />
+      <item value="parallel" />
       <item value="MICROSECONDS" />
       <item value="Discard Policy" />
       <item value="discards" />
@@ -49,13 +51,11 @@
       <item value="converter" />
       <item value="Duplicate" />
       <item value="Execution Exception" />
-      <item value="controller" />
-      <item value="Date Validation Util Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="258" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
