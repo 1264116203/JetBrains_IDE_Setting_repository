@@ -1,10 +1,8 @@
 <scheme name="Ladies Night 8" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -508,11 +506,6 @@
         <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
-    <option name="JAVA_STRING">
-      <value>
-        <option name="FOREGROUND" value="76d6a7" />
-      </value>
-    </option>
     <option name="JS$GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="897bc2" />
@@ -530,16 +523,17 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="2a7a76" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="JS.PARAMETER">
       <value>
         <option name="FOREGROUND" value="e4dfa4" />
         <option name="EFFECT_COLOR" value="0" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="LOCAL_VARIABLE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="e44c" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
