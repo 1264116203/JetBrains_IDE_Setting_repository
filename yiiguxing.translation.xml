@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fatal: /logs: '/logs' is outside repository" />
+      <item value="fatal: pathspec 'logs' did not match any files" />
       <item value="Illegal Monitor State Exception" />
       <item value="calculate Capacity" />
       <item value="ensure Capacity Internal" />
@@ -49,13 +51,11 @@
       <item value="Cyclic Barrier" />
       <item value="concurrency" />
       <item value="TREEIFY THRESHOLD" />
-      <item value="via" />
-      <item value="Interrupted Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="265" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="267" />
+        <entry key="ENGLISH" value="268" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
