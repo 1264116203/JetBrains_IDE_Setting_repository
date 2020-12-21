@@ -1,39 +1,67 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="圆角矩形" />
-      <item value="length" />
-      <item value="rotate X" />
-      <item value="subtract" />
-      <item value="compute Vertex Normals" />
-      <item value="compute Face Normals" />
-      <item value="animations" />
-      <item value="create Model" />
-      <item value="shininess" />
-      <item value="specular" />
-      <item value="opacity" />
-      <item value="transparent" />
-      <item value="to Geometry" />
-      <item value="matrix" />
-      <item value="union" />
-      <item value="intersect" />
-      <item value="100000" />
-      <item value="left cube" />
-      <item value="Ambient Light" />
-      <item value="Sphere Geometry" />
-      <item value="Orthographic Camera" />
-      <item value="rotation" />
-      <item value="Geometry" />
-      <item value="Cylinder Geometry" />
-      <item value="Mesh Lambert Material" />
-      <item value="mesh" />
-      <item value="height" />
+      <item value="error: Your local changes to the following files would be overwritten by checkout: src/com/beibei/Test.java Please commit your changes or stash them before you switch branches. Aborting" />
+      <item value="stash" />
+      <item value="fatal: /logs: '/logs' is outside repository" />
+      <item value="fatal: pathspec 'logs' did not match any files" />
+      <item value="Illegal Monitor State Exception" />
+      <item value="calculate Capacity" />
+      <item value="ensure Capacity Internal" />
+      <item value="RUNNABLE" />
+      <item value="TIMED WAITING" />
+      <item value="subclasses" />
+      <item value="reduce" />
+      <item value="parallel" />
+      <item value="MICROSECONDS" />
+      <item value="Discard Policy" />
+      <item value="discards" />
+      <item value="A handler for rejected tasks that silently discards the * rejected task." />
+      <item value="Discard Oldest Policy" />
+      <item value="Caller Runs Policy" />
+      <item value="rejected Execution" />
+      <item value="Abort Policy" />
+      <item value="delay" />
+      <item value="new Single Thread Executor" />
+      <item value="Finalizable Delegated Executor Service" />
+      <item value="register Natives" />
+      <item value="treeify Bin" />
+      <item value="table is too small, in which case resizes instead." />
+      <item value="Fix" />
+      <item value="Fixed" />
+      <item value="Future Task" />
+      <item value="element" />
+      <item value="poll" />
+      <item value="peek" />
+      <item value="Initializer" />
+      <item value="CUSTOM" />
+      <item value="-1 for 1st" />
+      <item value="However, since the vast majority of bins in * normal use are not overpopulated, checking for existence of * tree bins may be delayed in the course of table methods." />
+      <item value="overpopulated" />
+      <item value="additionally" />
+      <item value="field holds the initial array capacity, or zero signifying" />
+      <item value="DEFAULT INITIAL CAPACITY.)" />
+      <item value="allocated" />
+      <item value="transient" />
+      <item value="Callbacks to allow LinkedHashMap post-actions" />
+      <item value="after Node Access(e);" />
+      <item value="Create a regular (non-tree) node" />
+      <item value="only If Absent" />
+      <item value="f true, don't change existing value" />
+      <item value="if false, the table is in creation mode." />
+      <item value="encrypt" />
+      <item value="Cyclic Barrier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="269" />
+        <entry key="ENGLISH" value="270" />
+        <entry key="DANISH" value="1" />
+        <entry key="CROATIAN" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
