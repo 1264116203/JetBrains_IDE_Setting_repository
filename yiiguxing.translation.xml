@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The parameter type of the parameter. * &lt;p&gt; * Valid values are {@code path}, {@code query}, {@code body}, * {@code header} or {@code form}." />
+      <item value="/** * The data type of the parameter. * &lt;p&gt; * This can be the class name or a primitive. */" />
+      <item value="Expired" />
+      <item value="Multipart Request" />
       <item value="error: Your local changes to the following files would be overwritten by checkout: src/com/beibei/Test.java Please commit your changes or stash them before you switch branches. Aborting" />
       <item value="stash" />
       <item value="fatal: /logs: '/logs' is outside repository" />
@@ -47,15 +51,11 @@
       <item value="after Node Access(e);" />
       <item value="Create a regular (non-tree) node" />
       <item value="only If Absent" />
-      <item value="f true, don't change existing value" />
-      <item value="if false, the table is in creation mode." />
-      <item value="encrypt" />
-      <item value="Cyclic Barrier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="273" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
