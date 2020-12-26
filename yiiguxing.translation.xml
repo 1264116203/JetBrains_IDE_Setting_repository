@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cause: java.lang.IllegalStateException: No typehandler found for property authorName" />
       <item value="ambiguous" />
       <item value="bookandauthordto" />
       <item value="The parameter type of the parameter. * &lt;p&gt; * Valid values are {@code path}, {@code query}, {@code body}, * {@code header} or {@code form}." />
@@ -50,12 +51,11 @@
       <item value="allocated" />
       <item value="transient" />
       <item value="Callbacks to allow LinkedHashMap post-actions" />
-      <item value="after Node Access(e);" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="274" />
-        <entry key="ENGLISH" value="275" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="276" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
