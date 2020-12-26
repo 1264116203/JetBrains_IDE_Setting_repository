@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="default Parameter Map" />
+      <item value="Persistence Exception" />
       <item value="upload File Using POST_1" />
       <item value="Cause: java.lang.IllegalStateException: No typehandler found for property authorName" />
       <item value="ambiguous" />
@@ -49,13 +51,11 @@
       <item value="additionally" />
       <item value="field holds the initial array capacity, or zero signifying" />
       <item value="DEFAULT INITIAL CAPACITY.)" />
-      <item value="allocated" />
-      <item value="transient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
