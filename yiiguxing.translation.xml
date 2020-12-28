@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JSON parse error: Cannot deserialize instance of `java.lang.String` out of START_ARRAY token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.lang.String` out of START_ARRAY token at [Source: (PushbackInputStream); line: 1, column: 15] (through reference chain: com.rcdcore.bootboost.modules.common.dto.BookAndAuthorDto[&quot;authorName&quot;])" />
+      <item value="START ARRAY" />
       <item value="default Parameter Map" />
       <item value="Persistence Exception" />
       <item value="upload File Using POST_1" />
@@ -49,13 +51,11 @@
       <item value="However, since the vast majority of bins in * normal use are not overpopulated, checking for existence of * tree bins may be delayed in the course of table methods." />
       <item value="overpopulated" />
       <item value="additionally" />
-      <item value="field holds the initial array capacity, or zero signifying" />
-      <item value="DEFAULT INITIAL CAPACITY.)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="277" />
-        <entry key="ENGLISH" value="278" />
+        <entry key="CHINESE" value="279" />
+        <entry key="ENGLISH" value="280" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
