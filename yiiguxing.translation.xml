@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PROTECTED" />
       <item value="validate Token" />
       <item value="JWT token compact of handler are invalid trace" />
       <item value="Unsupported JWT token trace" />
@@ -50,12 +51,11 @@
       <item value="Fix" />
       <item value="Fixed" />
       <item value="Future Task" />
-      <item value="element" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="288" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="289" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
