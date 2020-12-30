@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accessors" />
+      <item value="numeric" />
+      <item value="Controller Default Rest Exception Advise" />
+      <item value="nested exception is com.fasterxml.jackson.databind.JsonMappingException: Current token (VALUE_STRING) not numeric, can not use numeric value accessors" />
+      <item value="Current token (VALUE_STRING) not numeric, can not use numeric value accessors" />
+      <item value="Pushback Input Stream" />
+      <item value="VALUE STRING" />
       <item value="Not unique table/alias: 'sud'" />
       <item value="ambiguous" />
       <item value="dept category" />
@@ -44,18 +51,11 @@
       <item value="discards" />
       <item value="A handler for rejected tasks that silently discards the * rejected task." />
       <item value="Discard Oldest Policy" />
-      <item value="Caller Runs Policy" />
-      <item value="rejected Execution" />
-      <item value="Abort Policy" />
-      <item value="delay" />
-      <item value="new Single Thread Executor" />
-      <item value="Finalizable Delegated Executor Service" />
-      <item value="register Natives" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="294" />
-        <entry key="ENGLISH" value="295" />
+        <entry key="CHINESE" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
