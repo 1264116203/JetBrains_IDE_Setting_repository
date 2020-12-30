@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ambiguous" />
+      <item value="dept category" />
+      <item value="The identity of the principal being authenticated. In the case of an authentication * request with username and password, this would be the username. Callers are * expected to populate the principal for an authentication request. * &lt;p&gt; * The &lt;tt&gt;AuthenticationManager&lt;/tt&gt; implementation will often return an * &lt;tt&gt;Authentication&lt;/tt&gt; containing richer information as the principal for use by * the application. Many of the authentication providers will create a * {@code UserDetails} object as the principal. * * @return the &lt;code&gt;Principal&lt;/code&gt; being authenticated or the authenticated * principal after authentication." />
+      <item value="@return the &lt;code&gt;Authentication&lt;/code&gt; or &lt;code&gt;null&lt;/code&gt; if no authentication * information is available" />
+      <item value="Obtains the currently authenticated principal, or an authentication request token." />
       <item value="PROTECTED" />
       <item value="validate Token" />
       <item value="JWT token compact of handler are invalid trace" />
@@ -16,7 +21,6 @@
       <item value="Persistence Exception" />
       <item value="upload File Using POST_1" />
       <item value="Cause: java.lang.IllegalStateException: No typehandler found for property authorName" />
-      <item value="ambiguous" />
       <item value="bookandauthordto" />
       <item value="The parameter type of the parameter. * &lt;p&gt; * Valid values are {@code path}, {@code query}, {@code body}, * {@code header} or {@code form}." />
       <item value="/** * The data type of the parameter. * &lt;p&gt; * This can be the class name or a primitive. */" />
@@ -47,15 +51,11 @@
       <item value="Finalizable Delegated Executor Service" />
       <item value="register Natives" />
       <item value="treeify Bin" />
-      <item value="table is too small, in which case resizes instead." />
-      <item value="Fix" />
-      <item value="Fixed" />
-      <item value="Future Task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="294" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
@@ -63,5 +63,6 @@
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
