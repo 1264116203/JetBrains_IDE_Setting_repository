@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Not unique table/alias: 'sud'" />
       <item value="ambiguous" />
       <item value="dept category" />
       <item value="The identity of the principal being authenticated. In the case of an authentication * request with username and password, this would be the username. Callers are * expected to populate the principal for an authentication request. * &lt;p&gt; * The &lt;tt&gt;AuthenticationManager&lt;/tt&gt; implementation will often return an * &lt;tt&gt;Authentication&lt;/tt&gt; containing richer information as the principal for use by * the application. Many of the authentication providers will create a * {@code UserDetails} object as the principal. * * @return the &lt;code&gt;Principal&lt;/code&gt; being authenticated or the authenticated * principal after authentication." />
@@ -50,12 +51,11 @@
       <item value="new Single Thread Executor" />
       <item value="Finalizable Delegated Executor Service" />
       <item value="register Natives" />
-      <item value="treeify Bin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="294" />
+        <entry key="ENGLISH" value="295" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
