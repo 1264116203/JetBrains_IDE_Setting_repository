@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Subquery" />
       <item value="Persistence Exception" />
       <item value="Duplicate entry '1123598821738675201' for key 'PRIMARY'" />
       <item value="uplicate entry '1123598821738675201' for key 'PRIMARY'" />
@@ -50,12 +51,11 @@
       <item value="parallel" />
       <item value="MICROSECONDS" />
       <item value="Discard Policy" />
-      <item value="discards" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="306" />
-        <entry key="ENGLISH" value="307" />
+        <entry key="CHINESE" value="307" />
+        <entry key="ENGLISH" value="308" />
         <entry key="DANISH" value="1" />
         <entry key="CROATIAN" value="1" />
       </map>
